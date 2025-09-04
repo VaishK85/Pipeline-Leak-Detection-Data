@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green?logo=pandas)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-blueviolet?logo=plotly)   
 
 ---
+<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/de90f5b6-78e4-497f-800c-a0987e6802de" />
 
 ## Project Description
 This repository focuses on detecting pipeline leaks using machine learning and data analysis techniques. The project leverages EDA, feature engineering, and Random Forest modeling to uncover hidden patterns and detect leak signals in water pipeline datasets.  
