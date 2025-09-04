@@ -1,6 +1,6 @@
 # Pipeline Leak Detection
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green?logo=pandas)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-blueviolet?logo=plotly)  ![License](https://img.shields.io/badge/License-MIT-success)  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-green?logo=pandas)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-blueviolet?logo=plotly)   
 
 ---
 
@@ -32,7 +32,7 @@ The analysis is designed for industrial monitoring and preventive maintenance, h
 
 ---
 
-### Sample Outputs
+### Outputs
 - Correlation Heatmap – Identify relationships among features
 - Leak Detection Graphs – Visual comparison of leakage vs non-leakage
 - Yearly Water Loss Trends
