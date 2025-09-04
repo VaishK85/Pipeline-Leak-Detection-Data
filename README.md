@@ -28,7 +28,7 @@ The analysis is designed for industrial monitoring and preventive maintenance, h
 - Pandas, NumPy – Data handling  
 - Matplotlib, Seaborn – Visualizations  
 - Scikit-learn – Machine Learning (Random Forest, Model Evaluation)  
-- Plotly/Dash (Optional) – Interactive dashboards  
+  
 
 ---
 
